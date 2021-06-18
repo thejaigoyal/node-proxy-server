@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "route": "/perks/*",
+            "address": "http://localhost:3002"
+        },
+        {
+            "route": "/perks",
+            "address": "http://localhost:3002"
+        }
+    ]
+}
